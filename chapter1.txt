@@ -1,1 +1,5 @@
-i am single
+To initialize the git -> git init
+To add the file in staging area -> git add <filename.txt>
+To commit the files -> git commit -m "savepoint message"
+
+To check the difference between last and current version -> git diff <filename.txt>
