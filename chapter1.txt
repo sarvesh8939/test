@@ -3,3 +3,7 @@ To add the file in staging area -> git add <filename.txt>
 To commit the files -> git commit -m "savepoint message"
 
 To check the difference between last and current version -> git diff <filename.txt>
+To rollback to last version -> git checkout <filename.txt>
+
+To create git remote -> git remote add <remote_name> <url_of_created_repositories>
+To push the repositoris from local to remote -> git push -u <remote_name> <branch_name>
