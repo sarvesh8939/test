@@ -7,3 +7,5 @@ To rollback to last version -> git checkout <filename.txt>
 
 To create git remote -> git remote add <remote_name> <url_of_created_repositories>
 To push the repositoris from local to remote -> git push -u <remote_name> <branch_name>
+
+To remove files from staging -> git rm --cached -r .
