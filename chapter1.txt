@@ -12,3 +12,8 @@ To remove files from staging -> git rm --cached -r .
 
 Useful repos for beginers: https://github.com/MunGell/awesome-for-beginners?tab=readme-ov-file
                            https://github.com/clupasq/word-mastermind
+
+To create a branch -> git branch <branch_name>
+To display all the branch created -> git branch 
+The asterisk symbol shows the current branch we are working
+To switch one to another branch -> git checkout <branch_name_to_switch>
