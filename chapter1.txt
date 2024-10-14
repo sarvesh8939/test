@@ -17,3 +17,5 @@ To create a branch -> git branch <branch_name>
 To display all the branch created -> git branch 
 The asterisk symbol shows the current branch we are working
 To switch one to another branch -> git checkout <branch_name_to_switch>
+
+Git learning link: https://learngitbranching.js.org/
