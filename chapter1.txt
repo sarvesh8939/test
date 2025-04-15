@@ -1,4 +1,6 @@
 To initialize the git -> git init
+To remove the git init from projrct -> rm -rf .git
+
 To add the file in staging area -> git add <filename.txt>
 To commit the files -> git commit -m "savepoint message"
 
